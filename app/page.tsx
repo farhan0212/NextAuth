@@ -19,7 +19,7 @@ export default function Home() {
           Auth
         </h1>
         <p className="text-white text-lg">
-          A simple authentication system with Next.js and Radix UI.
+          A simple authentication system with Next.js Shad CN
         </p>
         <div>
           <LoginButton>

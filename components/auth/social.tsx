@@ -11,14 +11,16 @@ export const Social = () => {
         className="w-full"
         variant={"outline"}
         onClick={() => {}}>
-        <FcGoogle className="h-5 w-5" /> Sign in with Google
+        <FcGoogle className="h-5 w-5" />{" "}
+        <span className="ml-2"> Sign in with Google</span>
       </Button>
       <Button
         size="lg"
         className="w-full"
         variant={"outline"}
         onClick={() => {}}>
-        <FaGithub className="h-5 w-5" /> Sign in with Google
+        <FaGithub className="h-5 w-5" />{" "}
+        <span className="ml-2">Sign in with Github</span>
       </Button>
     </div>
   );
